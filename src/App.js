@@ -4,7 +4,7 @@ import Weather from "./weather";
 function App() {
   return (
     <div className="App">
-      <div className="container mt-3">
+      <div className="container">
         <Weather />
 
         <footer>
